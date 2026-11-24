@@ -45,6 +45,6 @@ I'm **[`RIHAB`](https://www.linkedin.com/in/rihabazhuvalappil/)**, Penetration T
 
 | **Project** | **Description** |
 | :--- | :--- |
-| **[Project 1](https://github.com/)** | Short Description |
+| **[pfsense-suricata-ips-lab](https://github.com/rihabav/pfsense-suricata-ips-lab)** | Deployed a virtualized pfSense perimeter firewall with Suricata IPS configured for inline blocking and pfBlockerNG-devel for GeoIP filtering, routing internal lab traffic through the firewall to inspect and block threats. |
 | **[Project 2](https://github.com/)** | Short Description |
 | **[Project 3](https://github.com/)** | Short Description |
